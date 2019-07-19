@@ -1,0 +1,12 @@
+<resources>
+    <string name="action_settings">About</string>
+    <string name="app_name">Coffee Point</string>
+    <string-array name="options">
+        <item>Go for Coffee</item>
+        <item>Hungry!Go for Snacks</item>
+        <item>Go for Todays Special</item>
+    </string-array>
+    <string name="title_activity_list_coffee_category">ListCoffeeCategory</string>
+
+
+</resources>
